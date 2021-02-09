@@ -17,6 +17,31 @@ and other sources.
 * [📝 Start the Bot](docs/start-the-bot.md)
 * [🤖 Commands](docs/cmds.md)
 * [⌨ Terminal Commands](docs/cmds.md)
-* [FFMpeg Installation](docs/ffmpeg.md)
+* [🎶FFMpeg Installation](docs/ffmpeg.md)
 
-* ## [Creating a Server](docs/servercreate.md)
+## Creating a Server
+
+Follow this tutorial to create a Support Server. You can also follow [this](https://www.youtube.com/watch?v=6L3q-vNGvxM&list=PLJhKm56OTQNfVdk9wiebTmDrbuB6L5ZQ5&index=7) YouTube
+video tutorial if you do not want to follow a text tutorial.
+
+## Creating categories
+You can create the following categories. - means or and / means and.
+- BOTS / Support / Music
+- Information / Developers / Tests
+- Games
+
+## Creating text channels
+Follow this section to get text channels in the right place.
+
+BOTS - commands
+Support - commands, adding
+Music - play
+Information - bot-updates
+Tests - commands
+
+## Creating voice channels
+Follow this section to get voice channels in the right place.
+
+Games - Among Us, Fall Guys, Roblox
+Music - Listen
+AFK
