@@ -13,8 +13,8 @@ and other sources.
 
 
 ## Getting started
-* **[🛠️ Setting up the bot](setup.md)**
-* [📝 Start the Bot](start-the-bot.md)
-* [🤖 Commands](cmds.md)
-* [⌨ Terminal Commands](cmds.md)
-* [FFMpeg Installation](ffmpeg.md)
+* **[🛠️ Setting up the bot](docs/setup.md)**
+* [📝 Start the Bot](docs/start-the-bot.md)
+* [🤖 Commands](docs/cmds.md)
+* [⌨ Terminal Commands](docs/cmds.md)
+* [FFMpeg Installation](docs/ffmpeg.md)
