@@ -1,5 +1,5 @@
 ## MusicKing bot for Discord
-
+This is a bot that plays music for Discord voice channels from [YouTube](https://youtube.com) and is coded with JavaScript.
 
 
 MusicKing Bot is a bot for [Discord](https://discord.com/) is a bot that allows users
