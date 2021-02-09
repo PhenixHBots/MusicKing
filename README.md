@@ -18,3 +18,5 @@ and other sources.
 * [🤖 Commands](docs/cmds.md)
 * [⌨ Terminal Commands](docs/cmds.md)
 * [FFMpeg Installation](docs/ffmpeg.md)
+
+* ## [Creating a Server](docs/servercreate.md)
