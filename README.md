@@ -33,15 +33,15 @@ You can create the following categories. - means or and / means and.
 ## Creating text channels
 Follow this section to get text channels in the right place.
 
-BOTS - commands
-Support - commands, adding
-Music - play
-Information - bot-updates
-Tests - commands
+- BOTS = commands
+- Support = commands, adding
+- Music = play
+- Information = bot-updates
+- Tests = commands
 
 ## Creating voice channels
 Follow this section to get voice channels in the right place.
 
-Games - Among Us, Fall Guys, Roblox
-Music - Listen
-AFK
+- Games = Among Us, Fall Guys, Roblox
+- Music = Listen
+- AFK
