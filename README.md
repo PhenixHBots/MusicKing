@@ -15,6 +15,6 @@ and other sources.
 ## Getting started
 * **[🛠️ Setting up the bot](setup.md)**
 * [📝 Start the Bot](start-the-bot.md)
-* [🤖 Commands](docs/commands.md)
+* [🤖 Commands](cmds.md)
 * [⌨ Terminal Commands](cmds.md)
 * [FFMpeg Installation](ffmpeg.md)
