@@ -4,3 +4,7 @@
 
 1. npm i @discordjs/opus ffmpeg-static yt-search ytdl-core 
 2. [FFMpeg](ffmpeg.md)
+
+## Bot Commands
++play
++leave
