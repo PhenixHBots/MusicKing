@@ -5,7 +5,7 @@ const client = new Discord.Client();
 const prefix = '+';
  
 client.once('ready', () => {
-    console.log('Phenixxer is online!');
+    console.log('MusicKing is online!');
 });
  
 client.on('message', message => {
@@ -23,4 +23,4 @@ client.on('message', message => {
  
  
  
-client.login('ODA4MjI1MjU0NTg1NDAxMzU1.YCDcbA.HdZDJjKxTfwJfilaUdMg_tVNLRw');
+client.login('');
